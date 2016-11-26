@@ -25,7 +25,7 @@ SECRET_KEY = 'f*67zems!&7k058y^0=n)m^y1eekg2=lql&gor4^)j%7n)g%fc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["bheatrix.pythonanywhere.com"]
 
 
 # Application definition
